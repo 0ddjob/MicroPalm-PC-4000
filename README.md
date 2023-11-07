@@ -23,6 +23,7 @@ The machine has two ROM sockets.  My machine has:
 - PR10003 V. 2.2
 <br>
 The ROMs are N27C256-2 types.<br>
+
 ![ROMs](/Pictures/Micro_Palm_ROMs1.jpg)
 
 ## [Pictures](/Pictures)
