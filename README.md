@@ -12,7 +12,7 @@ It would be great to find the following:<br>
 - MS-DOS User's Guide (MC10035), and
 - MS-DOS Programmer's Reference (MC10036).
 
-I found a [German article from 1992](http://www.cowo.de/a/1133979) - it seems to be announcing a reseller 
+I found a [German article from 1992](http://www.cowo.de/a/1133979) - it seems to be announcing a reseller in Germany:
 
 > With the models "PC/3000", "PC/4000" and "PC/5000" Technitron presents a family of MS-DOS PCs in pocket size. The computers come from Micro Paim Computers and are often used for meter reading, according to the Munich provider,
 
