@@ -19,3 +19,7 @@ My machine came with a [Utilities Disk](/Software/MicroPalm_Utilities_Disk_SW100
 
 ## [Pictures](/Pictures)
 Photos of the machine, including interior.
+
+## Videos
+My YouTube videos.
+[Part 1](https://youtu.be/sYC32jD33a0)
