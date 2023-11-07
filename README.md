@@ -27,10 +27,10 @@ My machine came with a [Utilities Disk](/Software/MicroPalm_Utilities_Disk_SW100
 
 ## Firmware
 The machine has two ROM sockets.  My machine has:
-- PR10001 V. 2.8
-- PR10003 V. 2.2
+- PR10001 V. 2.8 (BIOS?)
+- PR10003 V. 2.2 (Diagnostics)
 <br>
-The ROMs are N27C256-2 types.<br>
+The ROMs are N27C256-2 types.<br><br>
 
 ![ROMs](/Pictures/Micro_Palm_ROMs1.jpg)
 
