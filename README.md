@@ -22,4 +22,4 @@ Photos of the machine, including interior.
 
 ## Videos
 My YouTube videos.<br>
-[Part 1](https://youtu.be/sYC32jD33a0)
+[Micro Palm PC/4000: Part 1](https://youtu.be/sYC32jD33a0)
