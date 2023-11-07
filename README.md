@@ -1,5 +1,5 @@
 # Micro Palm Computers PC/4000
-The PC/4000 (and PC/5000) are MS-DOS compatible handheld computers running on an [80C88](/Pictures/Micro_Palm_80C88.jpg).  The PC/4000 comes with 256KB of RAM and 512KB of storage.  They run on three C-size batteries (alkaline or rechargeable NiCd).  It has a single 50-pin DD50 socket.
+The PC/4000 (and PC/5000) are MS-DOS compatible handheld computers running on an [80C88](/Pictures/Micro_Palm_80C88.jpg).  The PC/4000 comes with 256KB of RAM and 512KB of storage, and has a 20x8 character, graphics capable, backlit LCD (120x64).  They run on three C-size batteries (alkaline or rechargeable NiCd).  It has a single 50-pin DD50 socket.
 
 ![PC4000](/Pictures/Micro_Palm_PC4000.jpg)
 
