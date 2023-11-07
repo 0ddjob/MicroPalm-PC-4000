@@ -5,7 +5,7 @@ According to the demo program:
 - two RS232 ports
 - one parallel port (hi-speed, two way)
 - 256KB system RAM
-- two internal 256KB modules
+- two internal 256KB modules for storage
 - 20x8 backlit LCD, 80x25 virtual PC screen buffer
 - MS-DOS ver. 2.25
 - IBM PC compatible BIOS
