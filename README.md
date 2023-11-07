@@ -13,7 +13,7 @@ According to the demo program:
 
 Options included:
 - supertwist LCD
-- removable moduels (in PC/5000)
+- removable modules (in PC/5000)
 - internal modem
 - bar code wand
 - communication cradle
