@@ -58,5 +58,5 @@ Photos of the machine, including interior.
 
 ## Videos
 My YouTube videos.<br>
-[Micro Palm PC/4000: Part 1](https://youtu.be/sYC32jD33a0)
-[Micro Palm PC/4000: Part 2](https://youtu.be/t-Lt_9J98sY)
+- [Micro Palm PC/4000: Part 1](https://youtu.be/sYC32jD33a0)
+- [Micro Palm PC/4000: Part 2](https://youtu.be/t-Lt_9J98sY)
