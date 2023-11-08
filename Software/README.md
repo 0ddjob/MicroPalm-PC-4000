@@ -1,4 +1,6 @@
 # Utilities Disk Contents
+5.25" 360KB (40 tracks) disk
+
 ```
     855 30 Oct  1985 ASSIGN.COM
      18  9 Jan  1989 AUTOEXEC.BAT
