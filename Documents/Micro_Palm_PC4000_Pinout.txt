@@ -8,6 +8,9 @@ Looking at the DD50 receptacle on the PC/4000:
  33* * * * * * * * * * * * * * * *18
 50* * * * * * * * * * * * * * * * *34
 
+U30, U31, U32, U34 are MAX232EWE chips.
+Charger provides 200mA @ 4.35VDC only for recharging NiCd cells.
+
 Pin   Connection
   1   ground
   2   ground
@@ -31,13 +34,13 @@ Pin   Connection
 MAX232 Pinout
 -------------
         +---+
-C1+   1-|   |-16 Vcc
-V+    2-| M |-15 GND
+C1+   1-|   |-16   Vcc
+V+    2-| M |-15   GND
 C1-   3-| A |-14 T1out
-C2+   4-| X |-13 R1in
+C2+   4-| X |-13  R1in
 C2-   5-| 2 |-12 R1out
-V-    6-| 3 |-11 T1in
-T2out 7-| 2 |-10 T2in
+V-    6-| 3 |-11  T1in
+T2out 7-| 2 |-10  T2in
 R2in  8-|   |-9  R2out
         +---+
 
