@@ -1,0 +1,49 @@
+Pinout of the Micro Palm PC/4000 DD50 Connector
+-----------------------------------------------
+Brett Hallen, 9-Nov-2023 (youtube.com/@brfff)
+
+Looking at the DD50 receptacle on the PC/4000:
+
+17* * * * * * * * * * * * * * * * *1
+ 33* * * * * * * * * * * * * * * *18
+50* * * * * * * * * * * * * * * * *34
+
+Pin   Connection
+  1   ground
+  2   ground
+ 15   U30 R2in
+ 16   U30 T2out
+ 17   U30 R1in  -> RS232 TxD
+ 18   U30 T1out -> RS232 RxD
+ 19   U31 R1in  -> RS232 TxD
+ 20   U31 T1out -> RS232 RxD
+ 21   U32 R2in
+ 22   U32 T2out
+ 23   U32 R1in  -> RS232 TxD
+ 24   U32 T1out -> RS232 RxD
+ 25   U34 R1in  -> RS232 TxD
+ 26   U34 T1out -> RS232 RxD
+ 30   U31 R2in
+ 32   U34 R2in
+ 46   ground (charger)
+ 50   charger +ve
+
+MAX232 Pinout
+-------------
+        +---+
+C1+   1-|   |-16 Vcc
+V+    2-| M |-15 GND
+C1-   3-| A |-14 T1out
+C2+   4-| X |-13 R1in
+C2-   5-| 2 |-12 R1out
+V-    6-| 3 |-11 T1in
+T2out 7-| 2 |-10 T2in
+R2in  8-|   |-9  R2out
+        +---+
+
+Example:
+Microcontroller Rx -- pin 12 R1out
+Microcontroller Tx -- pin 11 T1in
+RS232 RxD pin 2    -- pin 14 T1out
+RS232 TxD pin 3    -- pin 13 R1in
+RS232 GND pin 5    -- pin 15 GND
