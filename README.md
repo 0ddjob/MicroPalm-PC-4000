@@ -3,13 +3,13 @@ The PC/4000 (and PC/5000) are MS-DOS compatible handheld computers running on an
 It has a single [50-pin DD50 socket](/Pictures/Micro_Palm_DD50_interface.jpg) through which it can support the items below.<br>
 
 According to the demo program:
-- two RS232 ports
+- two RS232 ports (although it has four MAX232s ... ?)
 - one parallel port (hi-speed, two way)
 - 256KB system RAM
 - two internal 256KB modules for storage
 - 20x8 backlit LCD, 80x25 virtual PC screen buffer
 - MS-DOS ver. 2.25
-- IBM PC compatible BIOS
+- IBM-PC compatible BIOS
 - MS-DOS command shell
 
 Options included:
