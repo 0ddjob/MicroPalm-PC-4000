@@ -1,5 +1,6 @@
 # Utilities Disk Contents
-5.25" 360KB (40 tracks) disk
+- 5.25" 360KB (40 tracks) disk
+- Disk image created with [ImageDisk 1.19](http://dunfield.classiccmp.org/img/) on an IBM Portable PC (Model 5155)
 
 ```
     855 30 Oct  1985 ASSIGN.COM
