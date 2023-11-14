@@ -1,5 +1,6 @@
 # Utilities Disk Contents
 - 5.25" 360KB (40 tracks) disk
+- MS-DOS v2.25
 - Disk image created with [ImageDisk 1.19](http://dunfield.classiccmp.org/img/) on an IBM Portable PC (Model 5155)
 
 ```
