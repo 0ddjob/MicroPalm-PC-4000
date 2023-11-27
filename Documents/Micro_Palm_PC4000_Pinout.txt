@@ -11,25 +11,59 @@ Looking at the DD50 receptacle on the PC/4000:
 U30, U31, U32, U34 are MAX232EWE chips.
 Charger provides 200mA @ 4.35VDC only for recharging NiCd cells.
 
-Pin   Connection
-  1   ground
-  2   ground
- 15   U30 R2in
+                                 GE Type SC-2 Smartcoupler with DE9 receptacle
+Pin   Connection                 Pin   Connection
+  1   ground                       1
+  2   ground                       2   DD50 pin 13
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10                               10
+ 11
+ 12
+ 13                               13  DD50 pin 2
+ 14
+ 15   U30 R2in                    15  DD50 pins 17/18/30
  16   U30 T2out
- 17   U30 R1in  -> RS232 TxD
- 18   U30 T1out -> RS232 RxD
- 19   U31 R1in  -> RS232 TxD
- 20   U31 T1out -> RS232 RxD
+ 17   U30 R1in  -> RS232 TxD      17  DD50 pins 15/18/30
+
+ 18   U30 T1out -> RS232 RxD      18  DD50 pins 15/17/30 & DE9 pin 4
+ 19   U31 R1in  -> RS232 TxD      19  DE9 pin 2
+ 20   U31 T1out -> RS232 RxD      20  DE9 pin 3
  21   U32 R2in
  22   U32 T2out
  23   U32 R1in  -> RS232 TxD
  24   U32 T1out -> RS232 RxD
  25   U34 R1in  -> RS232 TxD
  26   U34 T1out -> RS232 RxD
- 30   U31 R2in
+ 27
+ 28
+ 29
+ 30   U31 R2in                   30  DD50 pins 15/17/18
+
  32   U34 R2in
- 46   ground (charger)
- 50   charger +ve
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46   ground (charger)          46  DE9 pin 5
+ 47
+ 48
+ 49                             49
+ 50   charger +ve               50  DE9 pin 9
 
 MAX232 Pinout
 -------------
