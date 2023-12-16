@@ -1,6 +1,8 @@
 Micro Palm Computers Firmware
 -----------------------------
 
+These computers use 32Kbyte N27C256 devices in a PLCC32 package. 
+
 Taken from a PC/5000
 --------------------
 - PR10001 v2.15

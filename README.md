@@ -44,11 +44,9 @@ My machine came with a [Utilities Disk](/Software/MicroPalm_Utilities_Disk_SW100
 
 ![Utilies Disk](/Software/MicroPalm_Utilities_Disk_SW10015.jpg)
 
-## Firmware
-The machine has two ROM sockets.  My machine has:
-- PR10001 V. 2.8 (BIOS?)
-- PR10003 V. 2.2 (Diagnostics)
-<br>
+## [Firmware](/Firmware)
+The machine has two ROM sockets. It appears one is for diagnostic routines and the other is the BIOS/MS-DOS.<br>
+Both have been dumped.<br>
 The ROMs are N27C256-2 types.<br><br>
 
 ![ROMs](/Pictures/Micro_Palm_ROMs1.jpg)
