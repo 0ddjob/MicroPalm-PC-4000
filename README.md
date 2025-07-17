@@ -59,3 +59,10 @@ My YouTube videos.<br>
 - [Micro Palm PC/4000: Part 1](https://youtu.be/sYC32jD33a0)
 - [Micro Palm PC/4000: Part 2](https://youtu.be/t-Lt_9J98sY)
 - [Micro Palm PC/4000: Part 3](https://youtu.be/kz60hYqgm1A)
+
+## DD50 Breakout Board
+The DD50 interface is, as far as I know, undocumented ... well, it's documented in the missing documentation.<br>
+
+I think it includes four serial ports at least.  Anyway, looks like I'm going to have to figure the pin out the hard way, hence the breakout board.<br>
+
+![DD50 breakout board PCB](/DD50_Breakout/DD50_Breakout_3D.png)
