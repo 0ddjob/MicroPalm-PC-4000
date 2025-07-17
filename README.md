@@ -8,7 +8,7 @@ According to the demo program:
 - 256KB system RAM
 - two internal 256KB modules for storage
 - 20x8 backlit LCD, 80x25 virtual PC screen buffer
-- MS-DOS ver. 2.25
+- MicroSoft ROM DOS ver. 2.25
 - IBM-PC compatible BIOS
 - MS-DOS command shell
 
