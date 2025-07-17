@@ -23,7 +23,7 @@ Options included:
 ![PC4000](/Pictures/Micro_Palm_PC4000.jpg)
 
 ## [Documentation](/Documents)
-Unfortunately I don't have much documentation.  I do have the [READ.ME](/Documents/README.txt) that came on the Utilities Disk (SW10015) and a four-page leaflet [(MC10041)](/Documents/MicroPalm_PC4000_Important_Information_MC10041.pdf).
+Unfortunately I don't have much documentation.  I do have the [READ.ME](/Documents/README.TXT) that came on the Utilities Disk (SW10015) and a four-page leaflet [(MC10041)](/Documents/MicroPalm_PC4000_Important_Information_MC10041.pdf).
 <br> <br>
 It would be great to find the following:<br>
 - PC/5000 User's Guide (MC10033),
