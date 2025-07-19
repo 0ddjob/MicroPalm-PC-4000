@@ -8,7 +8,7 @@ According to the demo program:
 - 256KB system RAM
 - two internal 256KB modules for storage
 - 20x8 backlit LCD, 80x25 virtual PC screen buffer
-- MS-DOS ver. 2.25
+- MicroSoft ROM DOS ver. 2.25
 - IBM-PC compatible BIOS
 - MS-DOS command shell
 
@@ -23,7 +23,7 @@ Options included:
 ![PC4000](/Pictures/Micro_Palm_PC4000.jpg)
 
 ## [Documentation](/Documents)
-Unfortunately I don't have much documentation.  I do have the [READ.ME](/Documents/README.txt) that came on the Utilities Disk (SW10015) and a four-page leaflet [(MC10041)](/Documents/MicroPalm_PC4000_Important_Information_MC10041.pdf).
+Unfortunately I don't have much documentation.  I do have the [READ.ME](/Documents/README.TXT) that came on the Utilities Disk (SW10015) and a four-page leaflet [(MC10041)](/Documents/MicroPalm_PC4000_Important_Information_MC10041.pdf).
 <br> <br>
 It would be great to find the following:<br>
 - PC/5000 User's Guide (MC10033),
