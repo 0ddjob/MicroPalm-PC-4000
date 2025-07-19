@@ -2,6 +2,8 @@
 ## Vale Vel Casler (founder of Micro Palm Computers)
 Scrounging the web, trying to find any scrap of info I could, I stumbled upon the [name of the founder/CEO](https://archive.org/details/jobseekersguidet0000char/mode/2up?q=micropalm+dos) ... Vel Casler.  A pretty unique name so managed to find him on LinkedIn and the [university where he worked as a professor](https://www.weber.edu/wsuimages/womengenderstudies/NewsletterArchive/NL%2004-2004.PDF).  I sent him a message asking if he had any info that he could share, but discovered today (July 2025) that he [passed away about two years ago in August 2023](https://www.lindquistmortuary.com/obituaries/velton-casler).
 
+![Vel Casler](/Pictures/vel.jpeg)
+
 ## Summary
 The PC/4000 (and PC/5000) are MS-DOS compatible handheld computers running on an [80C88](/Pictures/Micro_Palm_80C88.jpg).  The PC/4000 comes with 256KB of RAM and 512KB of "virtual disk" storage, and has a 20x8 character, 120x64 graphics capable, backlit LCD.  They run on three C-size batteries (alkaline or rechargeable NiCd).<br>  
 It has a single [50-pin DD50 socket](/Pictures/Micro_Palm_DD50_interface.jpg) through which it can support the items below.<br>
