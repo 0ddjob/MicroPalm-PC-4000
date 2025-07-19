@@ -20,7 +20,7 @@ Options included:
 - communication cradle
 - portable printer
 
-![PC4000](/Pictures/Micro_Palm_PC4000.jpg)
+![PC4000](/Pictures/Micro_Palm_PC4000.png)
 
 ## [Documentation](/Documents)
 Unfortunately I don't have much documentation.  I do have the [READ.ME](/Documents/README.TXT) that came on the Utilities Disk (SW10015) and a four-page leaflet [(MC10041)](/Documents/MicroPalm_PC4000_Important_Information_MC10041.pdf).
@@ -42,7 +42,7 @@ I found a [German article from 1992](http://www.cowo.de/a/1133979) - it seems to
 ## [Software](/Software)
 My machine came with a [Utilities Disk](/Software/MicroPalm_Utilities_Disk_SW10015.zip)<br>
 
-![Utilies Disk](/Software/MicroPalm_Utilities_Disk_SW10015.jpg)
+![Utilies Disk](/Software/MicroPalm_Utilities_Disk_SW10015.png)
 
 ## [Firmware](/Firmware)
 The machine has two ROM sockets. It appears one is for diagnostic routines and the other is the BIOS/MS-DOS.<br>
