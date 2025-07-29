@@ -1,7 +1,7 @@
 Micro Palm Computers PC/5000 IC Listing
 29/Jul/2025 (work-in-progress)
 
-U1  IS80C88         CPU
+U1  IS80C88         8088 CPU
 U2  IS82C85         CMOS clock controller/generator
 U3  D71054L         Programmable timer
 U4  74HCT245        Octal bus transceiver
@@ -26,17 +26,37 @@ U22 KM62256ALG-10   32KB SRAM
 U23 KM62256ALG-10   32KB SRAM
 U24 KM62256ALG-10   32KB SRAM
 U25
-U26
+U26	74HC157         Quad 2-input multiplexer
 U27 D71051L         CMOS USART
 U28 D71051L         CMOS USART
-U29
+U29	74HC157         Quad 2-input multiplexer
 U30 MAX232EWE       Multichannel RS-232 driver/receiver
 U31 MAX232EWE       Multichannel RS-232 driver/receiver
 U32 MAX232EWE       Multichannel RS-232 driver/receiver
 U33 M6242B          CMOS Real Time Clock/Calendar
 U34 MAX232EWE       Multichannel RS-232 driver/receiver
-U35
-U36
-U37
-U38
-U39
+U35	74HC157         Quad 2-input multiplexer
+U36	74HC157         Quad 2-input multiplexer
+U37	74HC374					Octal D-type flip flop
+U38	D72030					LCD controller
+U39	74HCT245        Octal bus transceiver
+U40
+U41	74HC157         Quad 2-input multiplexer
+U42 LH5116N-10      2KB SRAM
+U43	74HCT245        Octal bus transceiver
+U44
+U45
+U46	74HC373					Octal D-type latch
+U47	74HC32					Quad 2-input OR
+U48	74HC00					Quad 2-input NAND
+U49	74HC270					512 x 4bit ROM
+U50	MC33063					Boost, buck, inverting switching regulator
+U51	MAX636					-12V inverting switching DC-DC converter
+U52
+U53
+U54
+U55
+U56
+U57
+U58
+U59
