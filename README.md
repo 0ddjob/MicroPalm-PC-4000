@@ -65,6 +65,8 @@ My YouTube videos.<br>
 - [Micro Palm PC/4000: Part 1](https://youtu.be/sYC32jD33a0)
 - [Micro Palm PC/4000: Part 2](https://youtu.be/t-Lt_9J98sY)
 - [Micro Palm PC/4000: Part 3](https://youtu.be/kz60hYqgm1A)
+- [Micro Palm PC/5000: Part 1](https://youtu.be/N5rM1O0Yyvo)
+- [Micro Palm PC/4000 & PC/5000: Part 5](https://youtu.be/bQWHgw3dFzg)
 
 ## DD50 Breakout Board
 The DD50 interface is, as far as I know, undocumented ... well, it's documented in the missing documentation.<br>
